@@ -5,6 +5,6 @@ Repositorio de entrega de tareas para la materia Seminario de Estadística I (In
 <ol>
   <li>Guzmán Mosco Mario Alexis</li>
   <li>Aguirre Chávez Alejandra</li>
-  <li>Sierra Zarate Valeri Alondra </li>
   <li>Hernández Abraham</li>
+  <li>Sierra Zarate Valeri Alondra </li>
 </ol>
