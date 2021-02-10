@@ -5,6 +5,6 @@ Repositorio de entrega de tareas para la materia Seminario de Estadística I (In
 <ol>
   <li>Guzmán Mosco Mario Alexis</li>
   <li>Alejandra Aguirre</li>
-  <li>Alondra</li>
-  <li>Abraham</li>
+  <li>Alondra Sierra</li>
+  <li>Abraham Hernández</li>
 </ol>
