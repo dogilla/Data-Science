@@ -4,7 +4,7 @@ Repositorio de entrega de tareas para la materia Seminario de Estadística I (In
 # Integrantes:
 <ol>
   <li>Guzmán Mosco Mario Alexis</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
+  <li>Alejandra Aguirre</li>
+  <li>Alondra</li>
+  <li>Abraham</li>
 </ol>
